@@ -1,5 +1,5 @@
 # Build and Deploy a Responsive Website | Beginner HTML CSS Tutorial on How to Make a Website in 2023
-![Sushi](https://i.ibb.co/dBxww2c/Sushi.png)
+![Sushi](https://i.ibb.co/WVyH2M6/sushi.png)
 
 ## Introduction
 Are you wondering how to make a website using #HTML and #CSS? Join me today to create a modern, fully responsive HTML & CSS website with animations!
